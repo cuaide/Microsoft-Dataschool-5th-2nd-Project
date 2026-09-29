@@ -1,4 +1,4 @@
-## 👥 Team Members & Roles
+## Team Members & Roles
 
 | Name | Role | Responsibilities |
 | :--- | :--- | :--- |
@@ -8,7 +8,7 @@
 | **Hyunji Lee** | Member | Chatbot Development, RAG Implementation |
 | **Junhyeok Baek** | Member | Frontend Development, Evaluation Criteria Design |
 
-## 🗓 Project Duration
+## Project Duration
 
 * **September 10, 2026 – September 29, 2026**
 
