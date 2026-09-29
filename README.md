@@ -1,14 +1,14 @@
-1. Team Members & Roles
-   <br>Insu Kim (Team Leader): Data Collection, Backend Integration, FastAPI<br/>
-   <br>Jonghyun Kim: Machine Learning Pipeline, Feedback Engine<br/>
-   <br>Juhyun Lee: Personal Data Analysis, Frontend Support<br/>
-   <br>Hyunji Lee: Chatbot Development, RAG Implementation<br/>
-   <br>Junhyeok Baek: Frontend Development, Evaluation Criteria Design<br/>
-   
-2. Project Duration
-   September 10 – September 29, 2026
+## 👥 Team Members & Roles
 
+| Name | Role | Responsibilities |
+| :--- | :--- | :--- |
+| **Insu Kim** | Team Leader | Data Collection, Backend Integration, FastAPI |
+| **Jonghyun Kim** | Member | Machine Learning Pipeline, Feedback Engine |
+| **Juhyun Lee** | Member | Personal Data Analysis, Frontend Support |
+| **Hyunji Lee** | Member | Chatbot Development, RAG Implementation |
+| **Junhyeok Baek** | Member | Frontend Development, Evaluation Criteria Design |
 
+## 🗓 Project Duration
 
-
+* **September 10, 2026 – September 29, 2026**
 
