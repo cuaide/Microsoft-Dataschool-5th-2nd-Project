@@ -1,4 +1,4 @@
-### Personal league of legend 
+### Personal Data Analysis for league of legend 
 
 ## 1. Team Members & Roles
 
