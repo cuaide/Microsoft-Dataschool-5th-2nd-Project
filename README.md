@@ -1,3 +1,7 @@
-# Microsoft-Dataschool-5th-2nd-Project
-This project was made from 09-10-2026~09-29-2026
-Cooperated by 김인수, 김종현, 백준혁, 이주현, 이현지 
+# This project was conducted from September 10 to September 29, 2026, in collaboration with Jonghyun Kim,Hyunji Lee,Junhyeok Baek, Insu Kim, Juhyun Lee
+
+
+
+
+
+
