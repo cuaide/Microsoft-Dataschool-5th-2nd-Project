@@ -1,12 +1,18 @@
-1. 팀원 소개
-   > Insu Kim(Team Leader): Data Collecting, Backend Integration, FAST API
-   > Jonghyun Kim: Machinelearning Pipeline, Feedback Engine
-   > Juhyun Lee: Analysis of personal data, Support for frontend
-   > Hyunji Lee: Creating Chatbot, Building RAG
-   > Junhyeok Baek: Frontend, Designing evaluation criteria
-2. 제작 기간
-   > September 10 ~ September 29, 2026
+1. Team Members & Roles
 
+Insu Kim (Team Leader): Data Collection, Backend Integration, FastAPI
+
+Jonghyun Kim: Machine Learning Pipeline, Feedback Engine
+
+Juhyun Lee: Personal Data Analysis, Frontend Support
+
+Hyunji Lee: Chatbot Development, RAG Implementation
+
+Junhyeok Baek: Frontend Development, Evaluation Criteria Design
+
+2. Project Duration
+
+September 10 – September 29, 2026
 
 
 
