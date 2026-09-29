@@ -1,5 +1,4 @@
 1. Team Members & Roles
-
    <br>Insu Kim (Team Leader): Data Collection, Backend Integration, FastAPI<br/>
    <br>Jonghyun Kim: Machine Learning Pipeline, Feedback Engine<br/>
    <br>Juhyun Lee: Personal Data Analysis, Frontend Support<br/>
